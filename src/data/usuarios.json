@@ -1,0 +1,422 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Louis",
+            "last": "White"
+        },
+        "location": {
+            "street": {
+                "number": 267,
+                "name": "Crawford Street"
+            },
+            "city": "Upper Hutt",
+            "state": "Bay of Plenty",
+            "country": "New Zealand",
+            "postcode": 37441,
+            "coordinates": {
+                "latitude": "48.1946",
+                "longitude": "-98.3330"
+            },
+            "timezone": {
+                "offset": "-10:00",
+                "description": "Hawaii"
+            }
+        },
+        "email": "louis.white@example.com",
+        "login": {
+            "uuid": "ad102d14-4967-408f-be2b-41d447da3fcd",
+            "username": "blackpeacock327",
+            "password": "testibil",
+            "salt": "qJzEdG09",
+            "md5": "d80c280a34933ed78dd242c4165a4eb4",
+            "sha1": "3924cd748cf6586a591d243d6ebfa6be329faebd",
+            "sha256": "12bb35fec34fe1bb5ffa6481fbddca4c1dcb477fcd4083cbbb8bbfa5a3965f91"
+        },
+        "cell": "(110)-772-4699",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/25.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Vanessa",
+            "last": "Chapman"
+        },
+        "location": {
+            "street": {
+                "number": 7164,
+                "name": "Green Rd"
+            },
+            "city": "Glendale",
+            "state": "Pennsylvania",
+            "country": "United States",
+            "postcode": 37101,
+            "coordinates": {
+                "latitude": "-85.4818",
+                "longitude": "145.8686"
+            },
+            "timezone": {
+                "offset": "-5:00",
+                "description": "Eastern Time (US & Canada), Bogota, Lima"
+            }
+        },
+        "email": "vanessa.chapman@example.com",
+        "login": {
+            "uuid": "221cb36a-effa-4f24-bb55-c4112c313f0d",
+            "username": "ticklishbear415",
+            "password": "1103",
+            "salt": "gejWleo9",
+            "md5": "5411d93b8b8e0e7d1ed9d5246bf43abd",
+            "sha1": "a1e20889f91bf67be86dfb3f9faee0779b03e3f5",
+            "sha256": "6b9fda98c24fb91365362e55884ea2786c1fd739cc6571c51e5e64805e09832e"
+        },
+        "cell": "(874) 962-1765",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/55.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Rodrigo",
+            "last": "Bravo"
+        },
+        "location": {
+            "street": {
+                "number": 4828,
+                "name": "Boulevard Colima"
+            },
+            "city": "Gustavo Díaz O. (El Carrizo)",
+            "state": "Queretaro",
+            "country": "Mexico",
+            "postcode": 70025,
+            "coordinates": {
+                "latitude": "-84.0086",
+                "longitude": "-53.9462"
+            },
+            "timezone": {
+                "offset": "-12:00",
+                "description": "Eniwetok, Kwajalein"
+            }
+        },
+        "email": "rodrigo.bravo@example.com",
+        "login": {
+            "uuid": "e595b040-f633-47cb-bf93-2cb8a2d10725",
+            "username": "redostrich879",
+            "password": "jayson",
+            "salt": "qsAAE3Od",
+            "md5": "22118615353f67be0747aa24a8009c36",
+            "sha1": "240c9946989563aa546f269ce5ec9a4e41207de4",
+            "sha256": "d63df54390ececb946e7c786df71cd26efd3c1f1a73111a94c3663fc810cd945"
+        },
+        "cell": "(662) 028 6478",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/54.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Szymon",
+            "last": "Melhus"
+        },
+        "location": {
+            "street": {
+                "number": 4668,
+                "name": "Dovregata"
+            },
+            "city": "Herre",
+            "state": "Sogn og Fjordane",
+            "country": "Norway",
+            "postcode": "0048",
+            "coordinates": {
+                "latitude": "29.3991",
+                "longitude": "60.1038"
+            },
+            "timezone": {
+                "offset": "+3:00",
+                "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+            }
+        },
+        "email": "szymon.melhus@example.com",
+        "login": {
+            "uuid": "44667ea0-7aad-4f38-9483-e82c2a313da7",
+            "username": "biggoose930",
+            "password": "dharma",
+            "salt": "nYMEGOFH",
+            "md5": "b6900b1276aa0df9646ad5080352f309",
+            "sha1": "a4118fb87f768fb5e4d653e4d84ddbaf1e03b2c4",
+            "sha256": "ba020332caa7226ee081493af13867579f62584443cde781b4637abce6be300c"
+        },
+        "cell": "92643031",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/31.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Mrs",
+            "first": "Ashley",
+            "last": "Scott"
+        },
+        "location": {
+            "street": {
+                "number": 5010,
+                "name": "Patrick Street"
+            },
+            "city": "Passage West",
+            "state": "Galway City",
+            "country": "Ireland",
+            "postcode": 79806,
+            "coordinates": {
+                "latitude": "36.6304",
+                "longitude": "133.6932"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "email": "ashley.scott@example.com",
+        "login": {
+            "uuid": "fa151bcf-5bab-41d8-8724-af3d978a8842",
+            "username": "redmouse484",
+            "password": "nicholas",
+            "salt": "ZmE7SWcP",
+            "md5": "f614b267d90a94192c8a7ab31c947478",
+            "sha1": "155f390fbfec78785a82973eec867c9893622c61",
+            "sha256": "72bd31154938a31b12aba7be32de364cc3006f61be1a738f11eb243d0305eecb"
+        },
+        "cell": "081-477-5304",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/96.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Kenan",
+            "last": "Keçeci"
+        },
+        "location": {
+            "street": {
+                "number": 4487,
+                "name": "Filistin Cd"
+            },
+            "city": "Hatay",
+            "state": "Gaziantep",
+            "country": "Turkey",
+            "postcode": 54700,
+            "coordinates": {
+                "latitude": "-23.8264",
+                "longitude": "152.3533"
+            },
+            "timezone": {
+                "offset": "-2:00",
+                "description": "Mid-Atlantic"
+            }
+        },
+        "email": "kenan.kececi@example.com",
+        "login": {
+            "uuid": "7c52b229-9868-43a7-a052-07b1dae8ab5c",
+            "username": "organicmouse268",
+            "password": "starstar",
+            "salt": "0TDrz2CS",
+            "md5": "beb6fa13ebd00579e36329dfab7d418f",
+            "sha1": "e11b9c22e0c7faae68fd6e09cc2951f1d7cdb40b",
+            "sha256": "86f091f632f414aa546a2c123813803647be384a47ce98579d1feafc302a62e8"
+        },
+        "cell": "(847)-832-6851",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/50.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Lewis",
+            "last": "Roberts"
+        },
+        "location": {
+            "street": {
+                "number": 7263,
+                "name": "Mokoia Road"
+            },
+            "city": "Upper Hutt",
+            "state": "Gisborne",
+            "country": "New Zealand",
+            "postcode": 11813,
+            "coordinates": {
+                "latitude": "60.8896",
+                "longitude": "-108.2147"
+            },
+            "timezone": {
+                "offset": "-11:00",
+                "description": "Midway Island, Samoa"
+            }
+        },
+        "email": "lewis.roberts@example.com",
+        "login": {
+            "uuid": "7fbc0aaa-a613-4f21-85ab-116cb851655b",
+            "username": "blackfish545",
+            "password": "stingray",
+            "salt": "bawy90Ne",
+            "md5": "18fa26697d06ff26bbe8f7350c63dea5",
+            "sha1": "3663ba68cd13b9df81ba1c4c27422ec2e804b0e5",
+            "sha256": "bec36abe696e9b070ba8b9b642f6fe43536b0a29907f7e407afc7bb47c75ba99"
+        },
+        "cell": "(745)-404-7490",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/62.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+        }
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Constance",
+            "last": "Howard"
+        },
+        "location": {
+            "street": {
+                "number": 9583,
+                "name": "Bollinger Rd"
+            },
+            "city": "Cairns",
+            "state": "Western Australia",
+            "country": "Australia",
+            "postcode": 5179,
+            "coordinates": {
+                "latitude": "65.8645",
+                "longitude": "75.1603"
+            },
+            "timezone": {
+                "offset": "0:00",
+                "description": "Western Europe Time, London, Lisbon, Casablanca"
+            }
+        },
+        "email": "constance.howard@example.com",
+        "login": {
+            "uuid": "e6d38857-9657-4fb7-86d7-bd9a24088bd6",
+            "username": "yellowzebra357",
+            "password": "1515",
+            "salt": "LMjfxy0Z",
+            "md5": "d23c1366cbc59a82e513c2f4c7f1f2ab",
+            "sha1": "3fdf0d3df230338056fb9187b96f1ba30eb6d047",
+            "sha256": "1c422233cd9962a86c57025d660005c1b63e34e1b40efdb97e22fd192e5cd3bc"
+        },
+        "cell": "0492-731-108",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/41.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Rolf-Dieter",
+            "last": "Herzig"
+        },
+        "location": {
+            "street": {
+                "number": 7897,
+                "name": "Gartenstraße"
+            },
+            "city": "Freudenberg",
+            "state": "Hamburg",
+            "country": "Germany",
+            "postcode": 27938,
+            "coordinates": {
+                "latitude": "-43.3975",
+                "longitude": "-9.6405"
+            },
+            "timezone": {
+                "offset": "-5:00",
+                "description": "Eastern Time (US & Canada), Bogota, Lima"
+            }
+        },
+        "email": "rolf-dieter.herzig@example.com",
+        "login": {
+            "uuid": "e43ae7ce-53bd-491c-ba90-b8d300056ffa",
+            "username": "lazytiger728",
+            "password": "harpoon",
+            "salt": "3lwBGdN5",
+            "md5": "09924730a05dd1a1908d85ed7139f6f2",
+            "sha1": "1fe67ca2c5ea2ef2471170589bf6ebb421c83ee9",
+            "sha256": "e0768da31c4d42138e853833230cdd59c707ab8633a3fb025c8cb67eea770c96"
+        },
+        "cell": "0173-8220577",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/7.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+        }
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Mitar",
+            "last": "Pištalo"
+        },
+        "location": {
+            "street": {
+                "number": 4753,
+                "name": "Ljubice Kujundžić"
+            },
+            "city": "Rekovac",
+            "state": "Mačva",
+            "country": "Serbia",
+            "postcode": 50092,
+            "coordinates": {
+                "latitude": "-78.2699",
+                "longitude": "128.9133"
+            },
+            "timezone": {
+                "offset": "+7:00",
+                "description": "Bangkok, Hanoi, Jakarta"
+            }
+        },
+        "email": "mitar.pistalo@example.com",
+        "login": {
+            "uuid": "247f493b-bf2b-4cfe-8b79-617b7f00b362",
+            "username": "brownmouse333",
+            "password": "mike123",
+            "salt": "iAiGXLbH",
+            "md5": "9b3f53206916de8b5ff76828f01c6a3f",
+            "sha1": "d494b57ff2f5264edd16acef7f904e081feda83d",
+            "sha256": "00de46752f6c842b453b3b4b5c396576e251aa48213f7c95596740559fc4e1eb"
+        },
+        "cell": "064-8072-004",
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/57.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+        }
+    }
+]
